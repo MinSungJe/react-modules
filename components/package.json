@@ -1,6 +1,6 @@
 {
-  "name": "beomgo-modal",
-  "version": "0.0.3",
+  "name": "mingtae-modal",
+  "version": "0.0.1",
   "description": "npm modules pair programming",
   "type": "module",
   "types": "dist/index.d.ts",
