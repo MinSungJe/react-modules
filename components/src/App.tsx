@@ -2,6 +2,11 @@ import { useState } from 'react';
 import './App.css';
 import Modal from './lib/Modal';
 
+/**
+ * Renders the main application interface with a button to open a modal dialog.
+ *
+ * Displays a heading, a button to open the modal, and the modal itself containing an overlay, content with text, an input field, a button, and a link.
+ */
 function App() {
   const [isOpen, setIsOpen] = useState(false);
 
